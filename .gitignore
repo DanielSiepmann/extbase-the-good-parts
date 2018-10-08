@@ -2,7 +2,6 @@ composer.lock
 vendor
 index.php
 typo3
-/Tests
 /Results
 infection*
 phpunit.xml.dist
